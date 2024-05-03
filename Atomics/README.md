@@ -7,7 +7,7 @@ Regarding with API v3, The Secure Endpoint API requires access via an authentica
   - Register Cisco XDR API Client
     - Click the Admnistration tab and choose API Clients in the navigation pane.
     - Click Generate API Client button, Enter a client name and select scope. (Note: The Secure Endpoint API will work with any of the selected Scopes.)
-    - The Client ID and Client Password are generated (Noted: The Client Password cannot be recovered, Please store securely)
+    - The Client ID and Client Password are generated (Noted: The Client Password cannot be recovered, Please store securely.
   - Update Account Keys "CTR_Credentials_Basic" with Client ID and Client Password
   - Update Target "CTR_For_Access_Token" on your Cisco XDR region
     - North America: visibility.amp.cisco.com
