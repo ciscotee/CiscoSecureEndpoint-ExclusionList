@@ -1,3 +1,4 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ciscotee/CiscoSecureEndpoint-ExclusionList)
 # Cisco Secure Endpoint Exclusion List Workflow
 The Workflow will list exclusion lists of Cisco Secure Endpoint for validating and review.
 The Exclusion API in Cisco Secure Endpoint avaialble on API [v3](https://developer.cisco.com/docs/secure-endpoint/introduction/)
