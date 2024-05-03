@@ -7,11 +7,12 @@ The exclusion information will list and update into environment table "CiscoSecu
 
 ## Requirements
   ### Authentication [More Details](https://developer.cisco.com/docs/secure-endpoint/authentication/#authentication) This will use on number 12 in Installation
-    - Integrate Cisco Secure Endpoint with Cisco XDR (SecureX)
-    - Register Cisco XDR API Client
-      - Click the Admnistration tab and choose API Clients in the navigation pane.
-      - Click Generate API Client button, Enter a client name and select scope. (Note: The Secure Endpoint API will work with any of the selected Scopes.)
-      - The Client ID and Client Password are generated (Noted: The Client Password cannot be recovered, Please store securely.
+  > [!IMPORTANT]
+  >  -  Integrate Cisco Secure Endpoint with Cisco XDR (SecureX)
+  >  -  Register Cisco XDR API Client
+  >        - Click the Admnistration tab and choose API Clients in the navigation pane.
+  >        - Click Generate API Client button, Enter a client name and select scope. (Note: The Secure Endpoint API will work with any of the selected Scopes.)
+  >        - The Client ID and Client Password are generated (Noted: The Client Password cannot be recovered, Please store securely.
 
 ## Installation
   1. Browse to your Cisco XDR, click the **Automate** and choose **Workflows**.
