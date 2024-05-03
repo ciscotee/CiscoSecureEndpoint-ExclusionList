@@ -6,7 +6,7 @@ The Workflow work with sub workflow (Atomics) "XDR generate Token" that you need
 The exclusion information will list and update into environment table "CiscoSecureEndpoint_Exclusion_Table" in variable.
 
 ## Requirement
-  - Validate subwork flow ["XDR generate Token"](https://github.com/ciscotee/ciscoxdr_workflow/tree/main/Atomics/001CiscoXDRgenerateToken__definition_workflow_02DDIR6ATE1L579banVg6VWl8rgQDCX8ErV) 
+  - Validate subwork flow ["XDR generate Token"](https://github.com/ciscotee/CiscoSecureEndpoint-ExclusionList/tree/main/Atomics) 
   - Update target region "Secure_Endpoint_V3"
     -  North America:  api.amp.cisco.com
     -  APJC:           api.apjc.amp.cisco.com
