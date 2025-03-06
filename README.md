@@ -23,7 +23,7 @@ The exclusion information will list and update into environment table "CiscoSecu
   5. Click on **Import**. You will get a warning about *missing sub work-flows*, however please click **Continue**. (Sub work-flow will import later).
   6. You will see workflow impored and show *Import completed*
   7. Click **View Workflow** you will see "2 Invalid Actions"
-  8. Select activity **"XDR Generate Access Token"**, click **"Import Sub-Workflow"**
+  8. Select activity **"XDR - Automated - Generate Access Token"**, click **"Import Sub-Workflow"**
   9. Navigate **Import From**, click on **Browse**
   10. Copy [XDR-generate-access-token.json](https://github.com/ciscotee/CiscoSecureEndpoint-ExclusionList/blob/main/Atomics/XDR-generate-access-token.json) and paste the content inside of the text window.
   11. Click on **Import**. You will get a warning, however please click on **Update** to get everything sorted.
